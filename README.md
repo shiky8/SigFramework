@@ -20,6 +20,7 @@ The requirements for this project are:
     1) Python 3
     2) Java version 1.7 +
     3) Linux machine (Windows doesnt support SCTP)
+    4) SS7 gateway  (for Attacking only)
 
 ## To install use
      sudo python3 -m pip install -r requirements.txt
