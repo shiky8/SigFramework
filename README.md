@@ -22,6 +22,9 @@ The requirements for this project are:
     3) Linux machine (Windows doesnt support SCTP)
     4) SS7 gateway  (for Attacking only)
 
+## Install Linux SCTP tools:
+    sudo apt install lksctp-tools
+
 ## To install use
      sudo python3 -m pip install -r requirements.txt
 
@@ -29,9 +32,9 @@ The requirements for this project are:
 
     cd SigFramework
    ## CLI
-      python3 sig_framwork_cli.py
+      sudo python3 sig_framwork_cli.py
    ## GUI
-      python3 sigfremwork_gui_main.py
+      sudo python3 sigfremwork_gui_main.py
    ## Web Interface
-     python3 sigframework_web.py
+     sudo python3 sigframework_web.py
 ## you can use wireshark to see the communication
