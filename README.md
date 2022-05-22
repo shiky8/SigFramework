@@ -34,3 +34,4 @@ The requirements for this project are:
       python3 sigfremwork_gui_main.py
    ## Web Interface
      python3 sigframework_web.py
+## you can use wireshark to see the communication
