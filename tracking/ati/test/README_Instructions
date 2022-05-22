@@ -1,0 +1,18 @@
+This simulates the HLR and sample response in this case
+
+The hardocded Values to be used:
+=================================
+Client PC: 1
+Client IP: 192.168.56.101
+Client port: 2905
+Peer PC: 2
+Peer IP: 192.168.56.102
+Peer port: 2906
+Target MSISDN: 96599657765
+
+
+
+Server Side Execution:
+======================
+java -jar AnyTimeInterrogation.jar 1 2 192.168.56.101 2905 192.168.56.102 2906 96599657765 419 2 12345 5678 23.97 465.25 256.4 55.5 656.4 6415.55 515.5 651.5
+java -jar AnyTimeInterrogation.jar

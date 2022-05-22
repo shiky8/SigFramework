@@ -1,0 +1,1 @@
+[32m[+][0mIMSI of the target is:[31m 602027891234567[32m[+][0mMSC of the target is:[31m 201111111111[32m[+][0mHLR of the target is:[31m 201179008255[34m[**][0mSubscriber's Information Gathering and Network Probing is completed[34m[**][0m

@@ -1,0 +1,16 @@
+This code simuilates the HLR of the target network
+
+Hardcoded Values:
+=================
+Client PC: 1
+Client IP: 192.168.56.101
+Client port: 2905
+Peer PC: 2
+Peer IP: 192.168.56.102
+Peer port: 2906
+Target MSISDN: 201522222222
+
+Execution:
+==========
+java -jar SendRoutingInfo.jar 1 2 192.168.56.101 2905 192.168.56.102 2906 201522222222 602021234567890 419 2 12345 5678 23.97 465.25  651.5
+java -r jar SendRoutingInfo.jar
